@@ -1,0 +1,31 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<body style="background-color: #2E4361;">
+	<center>
+	<!--top-->
+	<table width="800">
+		<tr height="100">
+	<!--top-->
+		<td colspan="2" align="center">
+		<img alt="" src="img/logo.PNG" width="260" height="70">
+		</td>>
+		<td colspan="4" align="center">
+		<font size="10"> 개드립 </font>
+		</td>
+	</tr>
+	<tr height="50">
+		<td width="130" align="center"> 개드립 </td>
+		<td width="130" align="center"> 유저 개드립 </td>
+		<td width="130" align="center"> 게임판 </td>
+		<td width="130" align="center"> 씹덕판 </td>
+		<td width="130" align="center"> 공지사항 </td>
+		<td width="130" align="center"> 문의하기 </td>
+	</tr>
+	
+	</table>
+	</center>
+
+</body>
+</html>
